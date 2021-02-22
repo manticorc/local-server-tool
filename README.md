@@ -3,5 +3,5 @@
 
 ## 环境搭建
 需要安装node.js并安装模块  
-echo * npm install express -g
+echo * npm install express -g  
 echo * npm install supervisor -g
